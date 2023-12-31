@@ -1,7 +1,7 @@
 ### Project provides an overview of the digital power design on board design 
 ### Company confidential information is not displayed
 
-![image[(DigitalPowerBoardDesign1.JPG)
+![image](DigitalPowerBoardDesign1.JPG)
 
 ![image](DigitalPowerBoardDesign2.JPG)
 
