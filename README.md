@@ -23,4 +23,6 @@
 
 ![image](DigitalPowerBoardDesign11.JPG)
 
+![image](USCopyrightCertificate.png)
 
+![image](EthicsandExcellence.png)
